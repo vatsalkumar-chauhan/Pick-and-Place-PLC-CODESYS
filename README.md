@@ -128,11 +128,24 @@ The program has 18 rungs total. Here is a summary of each:
 ## Screenshots
 
 ### Static Code View
-*(Add your static code screenshots here)*
+
+### Variable Declarations
+![Variables Part 1](variables_1.png.webp)
+![Variables Part 2](variables_2.png.webp)
+
+### Ladder Logic — Rungs
+![Rungs 1 to 4](rungs_1_to_4.png.webp)
+![Rungs 5 to 8](rungs_5_to_8.png.webp)
+![Rungs 9 to 11](rungs_9_to_11.png.webp)
+![Rungs 12 to 14](rungs_12_to_14.png.webp)
+![Rungs 15 to 17](rungs_15_to_17.png.webp)
+![Rung 18](rung_18.png.webp)
 
 ### Live Simulation
-*(Add your simulation screenshots here — timer counting, active rungs)*
 
+
+![Simulation Running](simulation_1.png.jpeg)
+![Timer Counting](simulation_2.png.jpeg)
 ---
 
 ## How to Run
