@@ -38,7 +38,7 @@ is pressed:
 
 ## State Diagram
 
-![Pick and Place PLC State Diagram](flowchart.png)
+![Pick and Place PLC State Diagram](flowchart.png.jpeg)
 
 **Note:** An E-Stop input is connected to every motion rung in the 
 program. If E-Stop is activated at any point during the sequence, 
