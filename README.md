@@ -1,5 +1,4 @@
-# Pick-and-Place-PLC-CODESYS
-Sequential ladder logic for a Pick and Place robot using CODESYS. Includes fault detection, E-Stop safety, position sensor feedback and reset logic.
+
 # Pick and Place Robot — PLC Ladder Logic (CODESYS)
 
 **Author:** Vatsalkumar Chauhan  
@@ -127,8 +126,6 @@ The program has 18 rungs total. Here is a summary of each:
 
 ## Screenshots
 
-### Static Code View
-
 ### Variable Declarations
 ![Variables Part 1](variables_1.png.webp)
 ![Variables Part 2](variables_2.png.webp)
@@ -147,7 +144,12 @@ The program has 18 rungs total. Here is a summary of each:
 ![Simulation Running](simulation_1.png.jpeg)
 ![Timer Counting](simulation_2.png.jpeg)
 ---
+## Limitations
 
+- No physical hardware — simulation only
+- Sensor_Position must be manually forced during simulation
+- No GUI for operator interaction
+- Assumes ideal timing conditions
 ## How to Run
 
 1. Open CODESYS V3.5 or later
@@ -179,3 +181,6 @@ This PLC workshop was part of my B.Tech final year preparation
 alongside my main project AUTOM8 — a staircase-climbing campus 
 delivery robot built using Arduino Mega, DC motors, and ultrasonic 
 sensors.
+
+👉 Simulink + Stateflow version:
+[PLC-Robotic-Arm-Simulink-Stateflow](https://github.com/vatsalkumar-chauhan/PLC-Robotic-Arm-Simulink-Stateflow)
